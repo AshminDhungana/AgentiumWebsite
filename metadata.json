@@ -1,5 +1,5 @@
 {
   "name": "Agentium",
   "description": "Agentium turns AI task execution into a structured digital democracy. Deploy a self-governing ecosystem of AI agents that deliberate, vote, and execute under a strict constitutional framework.",
-  "requestFramePermissions": [],
+  "requestFramePermissions": []
 }
