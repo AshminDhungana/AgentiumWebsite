@@ -4,6 +4,8 @@ Agentium is a modern, responsive landing page for an AI automation platform, bui
 
 **🔗 Live Site:** [https://agentium-site.vercel.app/](https://agentium-site.vercel.app/)
 
+![Agentium Screenshot](public/image.png)
+
 ## Deploy to Vercel
 
 This project is fully configured to be deployed on Vercel out-of-the-box. The repository includes a `vercel.json` file which handles proper routing for single-page applications.

@@ -73,7 +73,7 @@ export default function GetStarted() {
               </div>
             </div>
 
-            <div>
+            <div className="min-w-0">
               <div className="rounded-2xl overflow-hidden bg-zinc-50 dark:bg-[#0d1117] border border-zinc-200 dark:border-zinc-800 transition-colors shadow-lg">
                 <div className="flex items-center justify-between px-4 py-3 border-b border-zinc-200 dark:border-zinc-800 bg-zinc-100 dark:bg-[#161b22] transition-colors">
                   <div className="flex items-center gap-4">
